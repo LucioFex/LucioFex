@@ -4,7 +4,7 @@
 
 <p><em>I’m Lucio, a self-taught in the informatic world, from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-I try to improve as much as I can every day. Learning and trying to write the most efficient code you can, but also enjoying every moment
+I try to improve as much as I can every day. Learning and trying to write the most efficient code I can, but also enjoying every moment.
 
 ## My skills
 ```python
