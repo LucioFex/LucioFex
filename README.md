@@ -26,5 +26,4 @@ lucio_skills = {
 </p>
 
 ## My stats
-
-![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex)
+![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30)
