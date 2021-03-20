@@ -16,13 +16,21 @@ lucio_skills = {
 ```
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-000?&logo=python"></img>
+    <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508"></img>
+    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1"></img>
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=Microsoft%20SQL%20Server&labelColor=1F2430&color=1F2430&logoColor=bc252a"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js"></img>
+    <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite&labelColor=1F2430&color=1F2430&logoColor=54ADE1"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&labelColor=1F2430&color=1F2430&logoColor=F1662A"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual%20studio%20code&labelColor=1F2430&color=1F2430&logoColor=24ACF2"></img>
 </p>
 
 ## My stats
