@@ -28,4 +28,4 @@ lucio_skills = {
 ## My stats
 
 ![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact)
