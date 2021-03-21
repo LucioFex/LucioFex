@@ -6,7 +6,7 @@
 
 I try to improve as much as I can every day. Learning and trying to write the most efficient code I can, but also enjoying every moment.
 
-## My skills
+## My skills ☕
 ```python
 lucio_skills = {
   "pronouns": "he" or "him",
@@ -33,7 +33,7 @@ lucio_skills = {
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual%20studio%20code&labelColor=1F2430&color=1F2430&logoColor=24ACF2"></img>
 </p>
 
-## My stats
+## My stats 📈
 
 ![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
