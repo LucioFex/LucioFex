@@ -12,7 +12,7 @@ lucio_skills = {
   "pronouns": "he" or "him",
   "code": [Javascript, HTML, CSS, SQL, Python],
   "tools": [Node, SQLserver, SQLite, VisualStudioCode],
-  "architecture": ["Test Driven Development"]}
+  "methodologies": ["Test Driven Development"]}
 ```
 
 <p align="center">
