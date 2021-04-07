@@ -23,8 +23,8 @@ lucio_skills = {
     <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=Microsoft%20SQL%20Server&labelColor=1F2430&color=1F2430&logoColor=bc252a"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite&labelColor=1F2430&color=1F2430&logoColor=54ADE1"></img>
-&nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img>
+<!-- &nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img>  -->
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
 &nbsp&nbsp
