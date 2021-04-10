@@ -11,7 +11,7 @@ I try to improve as much as I can every day. Learning and trying to write the mo
 lucio_skills = {
   "pronouns": "he" or "him",
   "code": [Javascript, HTML, CSS, SQL, Python],
-  "tools": [Node, SQLserver, SQLite, VisualStudioCode],
+  "tools": [SQLserver, SQLite, VisualStudioCode],
   "methodologies": ["Test Driven Development"]}
 ```
 
