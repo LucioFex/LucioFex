@@ -1,8 +1,12 @@
-<img src="RandolphCarter.gif" width="915" align="center"></img>
+<p align="center">
+  <img src="RandolphCarter.gif" width="915" align="center">
+</p>
 
 # 💀 Hello everyone, how's it going? 💀
 
-<p><em>I’m Lucio, a self-taught in the informatic world, from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p>
+  <em>I’m Lucio, a self-taught in the informatic world, from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+</p>
 
 I try to improve as much as I can every day. Learning and trying to write the most efficient code I can, but also enjoying every moment.
 
