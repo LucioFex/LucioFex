@@ -15,7 +15,7 @@ I try to improve as much as I can every day. Learning and trying to write the mo
 lucio_skills = {
   "pronouns": "he" or "him",
   "code": [Python, JavaScript, SQL, HTML, CSS],
-  "tools": [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess],
+  "tools": [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
   "methodologies": ["Test Driven Development"]}
 ```
 
@@ -37,6 +37,8 @@ lucio_skills = {
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual%20studio%20code&labelColor=1F2430&color=1F2430&logoColor=24ACF2"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Microsoft%20Access-000?&logo=microsoft%20access&labelColor=1F2430&color=1F2430&logoColor=a82b2b"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
 </p>
 
 ## My stats 📈
