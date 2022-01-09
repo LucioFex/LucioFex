@@ -11,12 +11,13 @@
 I try to improve as much as I can every day. Learning and trying to write the most efficient code I can, but also enjoying every moment.
 
 ## My skills ☕
-```python
-lucio_skills = {
-  "pronouns": "he" or "him",
-  "code": [Python, SQL, Node, JavaScript, HTML, CSS],
-  "tools": [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
-  "methodologies": ["Test Driven Development"]}
+```js
+let skillsLucio = {
+  pronouns: 'he' || 'him',
+  code: [Python, SQL, Node, JavaScript, HTML, CSS],
+  tools: [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
+  methodologies: ['Test Driven Development'],
+  }
 ```
 
 <p align="center">
