@@ -14,7 +14,7 @@ I try to improve as much as I can every day. Learning and trying to write the mo
 ```python
 lucio_skills = {
   "pronouns": "he" or "him",
-  "code": [Python, JavaScript, SQL, HTML, CSS],
+  "code": [Python, SQL, Node, JavaScript, HTML, CSS],
   "tools": [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
   "methodologies": ["Test Driven Development"]}
 ```
