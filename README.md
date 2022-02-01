@@ -2,19 +2,19 @@
   <img src="RandolphCarter.gif" width="915" align="center">
 </p>
 
-# 💀 Hello everyone, how's it going? 💀
+<h1 align="center"> 💀 Hello everyone, how's it going? 💀 </h1>
 
 <p>
   <em>I’m Lucio, a self-taught in the informatic world, from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
 </p>
 
-I try to improve as much as I can every day. Learning and trying to write the most efficient code I can, but also enjoying every moment.
+I improve as much as I can every day. Learning and trying to write the most efficient code, focusing on backend development.
 
 ## My skills ☕
 ```js
 let skillsLucio = {
   pronouns: 'he' || 'him',
-  code: [Python, SQL, Node, JavaScript, HTML, CSS],
+  languages: [Python, SQL, Node, JavaScript, HTML, CSS],
   tools: [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
   methodologies: ['Test Driven Development'],
   }
