@@ -2,22 +2,24 @@
   <img src="RandolphCarter.gif" width="915" align="center">
 </p>
 
-<h1 align="center"> 💀 Hello everyone, how's it going? 💀 </h1>
+<h1 align="center"> 💀 Hi, how's it going? 💀 </h1>
 
-<p>
-  <em>I’m Lucio, a self-taught in the informatic world, from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
-</p>
+<h2>
+    I’m Lucio, a Backend Dev from Argentina <img src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b761198dae1c16a6f671fe2dbda260f561468d11eec0c&rid=giphy.gif&ct=s" width="60">
+</h2>
+<h3>
+  <p>I work hard every day to be the best version of myself, not only learning, but also creating code with new ideas.</p>
+</h3>
 
-I improve as much as I can every day. Learning and trying to write the most efficient code, focusing on backend development.
 
-## My skills ☕
+## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
 ```js
 let skillsLucio = {
   pronouns: 'he' || 'him',
   languages: [Python, SQL, Node, JavaScript, HTML, CSS],
   tools: [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
   methodologies: ['Test Driven Development'],
-  }
+}
 ```
 
 <p align="center">
@@ -42,7 +44,7 @@ let skillsLucio = {
     <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
 </p>
 
-## My stats 📈
+## My stats <img src="https://media1.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif?cid=ecf05e478akguwkdt48em6rw22ld04x2j97et8a3ltlxwqnk&rid=giphy.gif&ct=s" width="30">
 
 ![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
