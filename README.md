@@ -16,7 +16,7 @@
 ```js
 let skillsLucio = {
   pronouns: 'he' || 'him',
-  languages: [Python, SQL, Node, JavaScript, HTML, CSS],
+  languages: [Python, SQL, Node, JavaScript, HTML, CSS, C],
   tools: [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
   methodologies: ['Test Driven Development'],
 }
