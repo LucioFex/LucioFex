@@ -5,7 +5,7 @@
 <h1 align="center"> 💀 Hi, how's it going? 💀 </h1>
 
 <h2>
-    I’m Lucio, a Backend Dev from Argentina <img src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b761198dae1c16a6f671fe2dbda260f561468d11eec0c&rid=giphy.gif&ct=s" width="60">
+    I’m Lucio, a Full Stack Dev from Argentina <img src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b761198dae1c16a6f671fe2dbda260f561468d11eec0c&rid=giphy.gif&ct=s" width="60">
 </h2>
 <h3>
   <p>I work hard every day to be the best version of myself, not only learning, but also creating code with new ideas.</p>
