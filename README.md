@@ -2,22 +2,20 @@
   <img src="RandolphCarter.gif" width="850" align="center">
 </p>
 
-<h1 align="center"> 💀 Hi, how's it going? 💀 </h1>
+<!-- <h1 align="center"> 💀 Hi, how's it going? 💀 </h1> -->
 
-<h2>
-    I’m Lucio, a Full Stack Dev from Argentina <img src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b761198dae1c16a6f671fe2dbda260f561468d11eec0c&rid=giphy.gif&ct=s" width="60">
+<h2 align="center">
+  💀 Hi, how's it going? 💀
+  <br><br>
+  I’m Lucio, a Full Stack Dev from Argentina
 </h2>
-<h3>
-  <p>I work hard every day to be the best version of myself, not only learning, but also creating code with new ideas.</p>
-</h3>
-
 
 ## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
 ```js
-let skillsLucio = {
+const mySkill = {
   pronouns: 'he' || 'him',
-  languages: [Python, SQL, Node, JavaScript, HTML, CSS, C],
-  tools: [SQLserver, SQLite, VisualStudioCode, MicrosoftAccess, Bash],
+  languages: [Node, Python, SQL, JavaScript, HTML, CSS, C],
+  tools: [SQLserver, SQLite, MySQL, MicrosoftAccess, Bash],
   methodologies: ['Test Driven Development'],
 }
 ```
