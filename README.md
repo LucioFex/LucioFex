@@ -25,6 +25,8 @@ const mySkill = {
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
 &nbsp&nbsp
+    <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
+&nbsp&nbsp
     <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=Microsoft%20SQL%20Server&labelColor=1F2430&color=1F2430&logoColor=bc252a"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql&labelColor=1F2430&color=1F2430&logoColor=fcda50"></img>
