@@ -14,8 +14,8 @@
 ```js
 const mySkill = {
   pronouns: 'he' || 'him',
-  languages: [Node, Python, SQL, JavaScript, HTML, CSS, C],
-  tools: [SQLserver, SQLite, MySQL, MicrosoftAccess, Bash],
+  languages: [NodeJS, Python, SQL, JavaScript, HTML, CSS, C],
+  tools: [SQLserver, SQLite, MySQL, MicrosoftAccess, EJS, Bootstrap, Bash, Neovim],
   methodologies: ['Test Driven Development'],
 }
 ```
