@@ -14,16 +14,16 @@
 ```js
 const mySkill = {
   pronouns: 'he' || 'him',
-  languages: [NodeJS, Python, SQL, JavaScript, HTML, CSS, C],
-  tools: [SQLserver, SQLite, MySQL, MicrosoftAccess, EJS, Bootstrap, Bash, Neovim],
+  languages: [Python, SQL, JavaScript, HTML, CSS, SQL, C],
+  tools: [NodeJS, SQLserver, SQLite, MySQL, MicrosoftAccess, EJS, Bootstrap, Bash, Neovim],
   methodologies: ['Test Driven Development'],
 }
 ```
 
 <p align="center">
-    <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
-&nbsp&nbsp
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&labelColor=1F2430&color=1F2430&logoColor=F7DF1E"></img>
+&nbsp&nbsp
+  <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
 &nbsp&nbsp
