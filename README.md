@@ -30,7 +30,9 @@ const mySkill = {
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=Microsoft%20SQL%20Server&labelColor=1F2430&color=1F2430&logoColor=bc252a"></img>
+  <img src="https://img.shields.io/badge/-Express.js-000?&logo=express&labelColor=1F2430&color=1F2430&logoColor=fcfcfc"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-SQL%20Server-000?&logo=Microsoft%20SQL%20Server&labelColor=1F2430&color=1F2430&logoColor=bc252a"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql&labelColor=1F2430&color=1F2430&logoColor=fcda50"></img>
 &nbsp&nbsp
@@ -50,7 +52,7 @@ const mySkill = {
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Docker-000?&logo=docker&labelColor=1F2430&color=1F2430&logoColor=38d1f7"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Microsoft%20Access-000?&logo=microsoft%20access&labelColor=1F2430&color=1F2430&logoColor=a82b2b"></img>
+    <img src="https://img.shields.io/badge/-Access-000?&logo=microsoft%20access&labelColor=1F2430&color=1F2430&logoColor=a82b2b"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
 </p>
