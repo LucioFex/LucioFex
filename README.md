@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RandolphCarter.gif" width="850" align="center">
+  <img src="https://user-images.githubusercontent.com/63211038/209569061-a80990d0-d3f2-46fd-bd28-6a66380d7c9e.png" width="875" align="center">
 </p>
 
 <!-- <h1 align="center"> 💀 Hi, how's it going? 💀 </h1> -->
