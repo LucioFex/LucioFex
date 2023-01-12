@@ -59,6 +59,6 @@ const mySkill = {
 
 ## My stats <img src="https://media1.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif?cid=ecf05e478akguwkdt48em6rw22ld04x2j97et8a3ltlxwqnk&rid=giphy.gif&ct=s" width="30">
 
-![LucioFex's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30&token=PAT_1)
+![LucioFex's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucioFex&show_icons=true&theme=ayu-mirage&border_radius=30)
 <!-- ![Lucio](https://github-readme-stats-beryl.vercel.app/api?username=luciofex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6&token=PAT_1)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucioFex&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
