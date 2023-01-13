@@ -14,8 +14,8 @@
 ```js
 const mySkill = {
   pronouns: 'he' || 'him',
-  languages: [NodeJS, TypeScript, JavaScript, HTML, CSS, Python, SQL, C],
-  tools: [Express, Bootstrap, Sass, Docker, Bash, Neovim],
+  languages: [NodeJS, TypeScript, JavaScript, SQL, HTML/CSS, Python, C],
+  tools: [React, Express, Bootstrap, Sass, Docker, Bash, Neovim],
   databases: [MySQL, SQLserver, SQLite, MicrosoftAccess]
   methodologies: ['Test Driven Development'],
 }
@@ -29,6 +29,8 @@ const mySkill = {
   <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=1F2430&color=1F2430&logoColor=1eafcc"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
+&nbsp&nbsp
+  <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=54e2ff"></img>
 &nbsp&nbsp
   <img src="https://img.shields.io/badge/-Express.js-000?&logo=express&labelColor=1F2430&color=1F2430&logoColor=fcfcfc"></img>
 &nbsp&nbsp
