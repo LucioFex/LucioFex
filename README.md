@@ -30,11 +30,11 @@ const mySkill = {
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-C-000?&logo=c&labelColor=1F2430&color=1F2430&logoColor=3eb8e8"></img>
 &nbsp&nbsp
-  <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=54e2ff"></img>
-&nbsp&nbsp
   <img src="https://img.shields.io/badge/-Express.js-000?&logo=express&labelColor=1F2430&color=1F2430&logoColor=fcfcfc"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-SQL%20Server-000?&logo=Microsoft%20SQL%20Server&labelColor=1F2430&color=1F2430&logoColor=bc252a"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&labelColor=1F2430&color=1F2430&logoColor=7f8ff9"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql&labelColor=1F2430&color=1F2430&logoColor=fcda50"></img>
 &nbsp&nbsp
@@ -43,6 +43,8 @@ const mySkill = {
     <img src="https://img.shields.io/badge/-Neovim-000?&logo=neovim&labelColor=1F2430&color=1F2430&logoColor=5ee560"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite&labelColor=1F2430&color=1F2430&logoColor=54ADE1"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=54e2ff"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img> 
 &nbsp&nbsp
@@ -53,8 +55,6 @@ const mySkill = {
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&labelColor=1F2430&color=1F2430&logoColor=F1662A"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Docker-000?&logo=docker&labelColor=1F2430&color=1F2430&logoColor=38d1f7"></img>
-&nbsp&nbsp
-    <img src="https://img.shields.io/badge/-Access-000?&logo=microsoft%20access&labelColor=1F2430&color=1F2430&logoColor=a82b2b"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&labelColor=1F2430&color=1F2430&logoColor=e8e8e8"></img>
 </p>
