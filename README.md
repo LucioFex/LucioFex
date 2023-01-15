@@ -7,7 +7,7 @@
 <h2 align="center">
   💀 Hi, how's it going? 💀
   <br><br>
-  I’m Lucio, a Full Stack Dev from Argentina
+  I’m Lucio, a Software Developer from Argentina
 </h2>
 
 ## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
