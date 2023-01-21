@@ -44,8 +44,6 @@ const mySkill = {
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite&labelColor=1F2430&color=1F2430&logoColor=54ADE1"></img>
 &nbsp&nbsp
-    <img src="https://img.shields.io/badge/-React-000?&logo=react&labelColor=1F2430&color=1F2430&logoColor=54e2ff"></img>
-&nbsp&nbsp
     <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img> 
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&labelColor=1F2430&color=1F2430&logoColor=c683f7"></img>
