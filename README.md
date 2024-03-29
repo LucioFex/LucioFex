@@ -14,7 +14,7 @@
 ```js
 const mySkill = {
   pronouns: 'he' || 'him',
-  languages: [NodeJS, TypeScript, JavaScript, SQL, HTML/CSS, Python, C],
+  languages: [PLPGSQL, Python, TypeScript, JavaScript, SQL, HTML/CSS, C],
   tools: [Express, Bootstrap, Sass, Docker, Bash, Neovim],
   databases: [MySQL, SQLserver, SQLite, PostgreSQL, MicrosoftAccess]
   methodologies: ['Test Driven Development'],
