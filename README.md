@@ -13,7 +13,6 @@
 ## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
 ```js
 const mySkill = {
-  pronouns: 'he' || 'him',
   languages: [PLPGSQL, Python, TypeScript, JavaScript, SQL, HTML/CSS, C],
   tools: [Express, Bootstrap, Sass, Docker, Bash, Neovim],
   databases: [MySQL, SQLserver, SQLite, PostgreSQL, MicrosoftAccess]
