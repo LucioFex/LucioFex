@@ -12,7 +12,7 @@
   👨‍💻 I’m a passionate developer who turned a coding hobby into a professional career with a love for open-source projects. Skilled in Postgres/PLPGSQL, Python, Node.js (TypeScript/JavaScript), HTML/CSS, Git, Linux, and Docker. Experienced in handling big data, software design, and client communication. Currently studying Computer Engineering at UCEMA on a scholarship. Fluent in English (B2).
 </p>
 
-## My skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
+## Some of my skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
 ```js
 const mySkills = {
   languages: [PLPGSQL, Python, TypeScript, JavaScript, SQL, HTML/CSS, C],
