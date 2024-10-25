@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63211038/209569061-a80990d0-d3f2-46fd-bd28-6a66380d7c9e.png" width="875" align="center">
+  <img src="https://github.com/user-attachments/assets/36d7c853-eb3a-4e0a-b10a-70596025592d" width="900" align="center">
 </p>
 
 <h2 align="center">
@@ -9,7 +9,9 @@
 </h2>
 
 <p>
-  👨‍💻 I’m a passionate developer who turned a coding hobby into a professional career with a love for open-source projects. Skilled in Postgres/PLPGSQL, Python, Node.js (TypeScript/JavaScript), HTML/CSS, Git, Linux, and Docker. Experienced in handling big data, software design, and client communication. Currently studying Computer Engineering at UCEMA on a scholarship. Fluent in English (B2).
+👨‍💻 I’m a developer who turned a passion for coding into a career. I work as a SQL Backend Developer and have a strong focus on Python projects, from data processing to backend development. I enjoy optimizing systems, automating tasks, and working with open-source technologies. Experienced with Python, PL/pgSQL, Node.js (TypeScript/JavaScript), Linux, Docker, Git, and more.
+
+🎓 Currently studying Computer Engineering at UCEMA on a scholarship. Fluent in English (B2). Always learning and open to new challenges!
 </p>
 
 ## Some of my skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
