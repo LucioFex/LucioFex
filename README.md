@@ -3,13 +3,15 @@
 </p>
 
 <h2 align="center">
-  💀 Hi, how's it going? 💀
+  Hello there, how's it going? ☕
   <br><br>
   I’m Lucio, a Software Developer from Argentina.
 </h2>
 
 <p>
-👨‍💻 I’m a developer who turned a passion for coding into a career. I work as a SQL Backend Developer and have a strong focus on Python projects, from data processing to backend development. I enjoy optimizing systems, automating tasks, and working with open-source technologies. Experienced with Python, PL/pgSQL, Node.js (TypeScript/JavaScript), Linux, Docker, Git, and more.
+👨‍💻 I’m a Cybersecurity Consultant and a passionate hobby developer with a strong background in backend development. My expertise spans cybersecurity solutions, data protection, and threat analysis, with experience in IBM Guardium and other security tools.
+
+🔒 I have extensive experience in backend development, working with Python, PL/pgSQL, Node.js (TypeScript/JavaScript), Linux, Docker, Git, and more. I enjoy optimizing systems, automating tasks, and working with open-source technologies.
 
 🎓 Currently studying Computer Engineering at UCEMA on a scholarship. Fluent in English (B2). Always learning and open to new challenges!
 </p>
@@ -18,8 +20,8 @@
 ```js
 const mySkills = {
   languages: [PLPGSQL, Python, TypeScript, JavaScript, SQL, HTML/CSS, C],
-  tools: [Express, Bootstrap, Sass, Docker, Bash, Neovim],
-  databases: [MySQL, SQLserver, SQLite, PostgreSQL, MicrosoftAccess]
+  tools: [IBM_Guardium, Express, Bootstrap, Sass, Docker, Bash, Neovim],
+  databases: [MySQL, SQL Server, SQLite, PostgreSQL, Microsoft Access]
 }
 ```
 
