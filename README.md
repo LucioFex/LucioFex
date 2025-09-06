@@ -12,7 +12,7 @@
 👨‍💻 I’m a <b>Cybersecurity Consultant specialized in Database Security</b> and a passionate developer with a strong background in backend systems.  
 I focus on <b>data protection, security engineering, and database optimization</b>, combining hands-on experience with <b>IBM Guardium</b> and solid expertise in Postgres (including geospatial extensions with PostGIS).  
 
-🔒 My journey began in backend development, building and optimizing systems with PL/pgSQL, Python, Node.js (TypeScript/JavaScript), Linux, Docker, and Git. With time, I dove deeper into data security, where I now focus on protecting and analyzing information at scale, collaborating on projects across industries like finance, telecom, and critical infrastructure.
+🔒 My journey began in backend development, building and optimizing systems with PL/pgSQL, Python, Node.js (TypeScript/JavaScript), Linux, Docker, and Git. With time, I dove deeper into data security, where I now focus on protecting and analyzing information at scale, collaborating on projects across industries like finance, telecommunications, and critical infrastructure.
 
 🎓 I’m currently studying Computer Engineering at <b>UCEMA</b> on a scholarship, where I was part of the honor roll.  
 Always curious, always learning, and always building solutions around <b>data, security, and performance</b>.
