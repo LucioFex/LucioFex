@@ -6,7 +6,7 @@
 <h2 align="center">
   Hello there, how's it going? ☕  
   <br><br>
-  I’m Lucio, a Software Developer & Cybersecurity Consultant from Argentina.
+  I’m Lucio, a Software Developer & Cybersecurity Architect from Argentina.
 </h2>
 
 <p>
