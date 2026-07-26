@@ -11,7 +11,7 @@
 </h2>
 
 <p>
-👨‍💻 I’m a <b>Cybersecurity Architect specialized in Database Security</b> and a passionate developer with a strong background in backend systems.  
+👨‍💻 I’m a <b>Cybersecurity Architect specialized in Data Security</b> and a passionate developer with a strong background in backend systems.  
 I focus on <b>data protection, security engineering, and database optimization</b>, combining hands-on experience with <b>IBM Guardium</b> and solid expertise in Postgres (including geospatial extensions with PostGIS).  
 
 🔒 My journey began in backend development, building and optimizing systems with PL/pgSQL, Python, Node.js (TypeScript/JavaScript), Linux, Docker, and Git. With time, I dove deeper into data security, where I now focus on protecting and analyzing information at scale, collaborating on projects across industries like finance, telecommunications, and critical infrastructure.
