@@ -5,22 +5,24 @@
 
 
 <h2 align="center">
-  Hello there, how's it going? ☕  
+  Hello there, how's it going? ☕
   <br><br>
-  I’m Lucio, a Software Developer & Cybersecurity Architect from Argentina.
+  I’m Luciano, a Founder, Dev and Cybersecurity Architect from Argentina.
 </h2>
 
 <p>
-👨‍💻 I’m a <b>Cybersecurity Architect specialized in Data Security</b> and a passionate developer with a strong background in backend systems.  
-I focus on <b>data protection, security engineering, and database optimization</b>, combining hands-on experience with <b>IBM Guardium</b> and solid expertise in Postgres (including geospatial extensions with PostGIS).  
+🚀 I build <b><a href="https://divenuo.com">diVenuo</a></b>, a booking platform for small businesses in Argentina. Real barbershops, hair salons, tattoo studios, and dog groomers run their day on it, each with their own page and their own brand. I wrote it end to end, on my own.
 
-🔒 My journey began in backend development, building and optimizing systems with PL/pgSQL, Python, Node.js (TypeScript/JavaScript), Linux, Docker, and Git. With time, I dove deeper into data security, where I now focus on protecting and analyzing information at scale, collaborating on projects across industries like finance, telecommunications, and critical infrastructure.
+👂 The code was the easy part. A dog groomer once told me she had switched off a feature I was proud of, which is how I found a problem nobody was ever going to file. Almost everything diVenuo does today started with an owner telling me what was missing. That is the part I'm obsessed with: the gap between a product that works and one that feels good to use.
 
-🎓 I’m currently studying Computer Engineering at <b>UCEMA</b> on a scholarship, where I was part of the honor roll.  
-Always curious, always learning, and always building solutions around <b>data, security, and performance</b>.
+🔒 By day I'm a <b>Cybersecurity Architect</b>, focused on data protection and on securing AI systems and the tooling agents operate with. Before that I led data security projects for clients in finance, telecommunications, and critical infrastructure.
+
+🛠️ I came up through the backend and never fully left, which is why I reason about security from the code up. Applied AI is where both halves meet: I secure it at work and I build with it.
+
+🎓 Computer Engineering at <b>UCEMA</b>, on a scholarship, honor roll.
+
+⚡ Making something that genuinely serves someone else feels like the floor to me, not the ceiling. I want good tooling to reach people who can't afford a team to build it for them. If that means running a company, I'll run one. If it means surrounding myself with people far better than I am, even better, because you end up being the average of the people around you. And the fastest way I've found to get better at any of this is to shut up and listen to someone who knows something I don't.
 </p>
-
----
 
 ## Some of my skills <img src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e474573e1jo5fxw8i4t0jhi3h5spdqcakqfshgjbmn2&rid=giphy.gif&ct=s" width="40">
 
